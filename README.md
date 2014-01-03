@@ -10,5 +10,3 @@ http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
 detect_outlier_with_dbscan()
 
 ## etc
-
-
